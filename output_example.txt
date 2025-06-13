@@ -1,0 +1,18 @@
+Arts & Crafts
+Required Information for Sku
+Tags (comma separated)
+Craft Foam
+Variation Type
+size
+Filter Option: Material
+Faux Mink ((
+Polyester
+
+Painting Supplies
+Required Information for Sku
+Tags (comma separated)
+Paint
+Variation Type
+color
+Filter Option: Paint Type
+Acrylic, Water
